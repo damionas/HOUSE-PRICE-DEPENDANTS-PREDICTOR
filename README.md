@@ -26,3 +26,16 @@ Finally, i concluded which model is best suitable for the given case by evaluati
       
       
 The Notebook containing all the inputs and Outputs are in the file already
+
+
+![image](https://user-images.githubusercontent.com/64482231/186757625-398ba4a2-cbc5-4de9-ac43-640c208f6cdc.png)
+
+
+                    this shows a more linear relationship between crime rate and housing price
+                    Also no outliers visible
+                    
+                    
+![image](https://user-images.githubusercontent.com/64482231/186757840-5aa65c35-6d01-4ef7-9ebe-d351f9001825.png)
+
+                Above is the correlation between the variables
+                
