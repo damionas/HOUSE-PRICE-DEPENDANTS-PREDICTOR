@@ -39,3 +39,15 @@ The Notebook containing all the inputs and Outputs are in the file already
 
                 Above is the correlation between the variables
                 
+![image](https://user-images.githubusercontent.com/64482231/186758042-11fb252b-e04f-4dba-8239-04521fe9446b.png)
+                LINEAR REGRESSION PREDICTION USING OLS ORDINARY LEAST OF SQUARE METHOD
+                FROM THE P VALUE, WE CAN SAY THERE IS A RELATIONSHIP BETWEEN THE PRICE VARIABLE AND THE ROOM NUMBER
+   
+   
+![image](https://user-images.githubusercontent.com/64482231/186758258-91960c32-f368-4707-bed8-a94a369edfd9.png)
+
+                    LINEAR REGRESSION PREDICTION USING SKLEARN LIBRARY
+                    
+             
+     
+We can see that, every model while rounding the output values will result in a score of 0.75 (75%) above which means our model performs well on our dataset and can be used to solve real-world problems.
